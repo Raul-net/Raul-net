@@ -30,6 +30,6 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://www.tumblr.com/jrchair98/188305861984/%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC-0094-01-22-frames-20fps-69x64-px?source=share" alt="Imagem">
+  <img align="center" src="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_540.gifv" alt="Imagem">
 </p>
 
