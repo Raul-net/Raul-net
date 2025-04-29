@@ -30,6 +30,6 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/Raul-net/Raul-net/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://www.tumblr.com/jrchair98/188305861984/%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC-0094-01-22-frames-20fps-69x64-px?source=share" alt="Imagem">
 </p>
 
