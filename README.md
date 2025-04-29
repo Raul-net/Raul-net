@@ -13,16 +13,17 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍🦱 More about me</summary>
 
   - 💬 I am 20 years old, currently living in Brazil. I do not yet have significant experience, but I have completed a project using CSS and HTML. Currently, I am focusing on learning Python.
 
-  - ⚡ Despite my limited experience, I make up for it with my effort and dedication to continuously improve and achieve my goals!!
+  - 🥇 Despite my limited experience, I make up for it with my effort and dedication to continuously improve and achieve my goals!!
     </details>
     
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-menezes-98424927a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulcarneirotorres@gmail.com)
+
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul-net&show_icons=true&theme=midnight-purple)
 
