@@ -27,7 +27,6 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul-net&show_icons=true&theme=midnight-purple)
 
-
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_540.gifv" alt="Imagem" width="700" height="250" >
@@ -47,4 +46,9 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
+
+  <!-- curriculum -->
+## Curriculum:
+- [😊view my resume](https://github.com/user-attachments/files/19969136/curriculo.9.pdf)
+
     
